@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Angular
+/dist/
+/node_modules/
+*.log
+
+# Express.js
+/build/
+.env
+
+# MongoDB
+/data/
+/db/
+
+# Visual Studio Code
+.vscode/
+
+# Dependency directories
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools/
